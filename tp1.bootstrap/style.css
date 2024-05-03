@@ -1,0 +1,19 @@
+body{
+    background: rgb(50,193,184);
+}
+.task-item {
+    margin-bottom: 10px;
+}
+
+.task-text {
+    cursor: pointer;
+}
+.task-text input {
+    border: none;
+    outline: none;
+    background: transparent;
+    width: auto;
+}
+.input-group-append {
+    margin-top: 10px;
+}
